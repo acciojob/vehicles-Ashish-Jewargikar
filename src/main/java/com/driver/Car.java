@@ -23,7 +23,7 @@ public class Car extends Vehicle {
         currentGear = 1;
 
     }
-////////////////////////////////////////////////
+
     public int getCurrentGear() {
         return currentGear;
     }
